@@ -13,7 +13,7 @@ using namespace std;
  
 class ZestawKomputerowy {
  
-private:
+private
 string monitor;
 string procesor;
 string grafika;
